@@ -1,0 +1,6 @@
+data/
+HarDNet-MSEG/
+Pytorch-HarDNet/
+submission/
+
+*.pth
